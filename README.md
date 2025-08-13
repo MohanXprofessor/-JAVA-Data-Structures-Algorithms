@@ -1,14 +1,5 @@
 # 🧠 Java DSA (Data Structures & Algorithms)
 
-
-
-## 🚀 Installation & Usage
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/Java-DSA.git
-   cd Java-DSA
-# 🧠 Java DSA (Data Structures & Algorithms)
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-Learning-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Progress-Active-success?style=for-the-badge)
@@ -66,7 +57,12 @@ int key = 50; // Not found
 - 💰 **Greedy Algorithms** — Coin Change, Activity Selection  
 
 ---
-
+## 🚀 Installation & Usage
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/yourusername/Java-DSA.git
+   cd Java-DSA
+   
 ## ✍️ Author
 **Mohan Yadav**  
 📧 *[Your Email or GitHub Profile Link]*  
