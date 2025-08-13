@@ -62,9 +62,13 @@ int key = 50; // Not found
    
 ## ✍️ Author
 **Mohan Parshuram Yadav**  
-<a href="https://mail.google.com/mail/u/0/#inbox">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30" height="30" />
-</a> **yadavmohan8600@gmail.com**
+<p align="center">
+  <a href="https://mail.google.com/mail/u/0/#inbox">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30" height="30" />
+  </a>
+  <strong>yadavmohan8600@gmail.com</strong>
+</p>
+
 💼 *[https://www.linkedin.com/in/mohan-parshuram-yadav-38190b219/]*
 
 ---
