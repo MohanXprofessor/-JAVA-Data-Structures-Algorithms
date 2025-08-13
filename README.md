@@ -19,9 +19,9 @@ This repo contains all the **Data Structures and Algorithms** I learn during my 
 
 ## 📚 Topics Covered
 - 📦 **Arrays** — Traversal, Rotation, Prefix Sum, Subarrays  
+- 🔄 **Sorting Algorithms** — Bubble, Selection, Insertion, Quick, Merge, Heap, Counting  
 - 📝 **Strings** — Palindrome, Anagram, String Reversal, Compression  
 - 🔍 **Searching Algorithms** — Linear Search, Binary Search, Jump Search  
-- 🔄 **Sorting Algorithms** — Bubble, Selection, Insertion, Quick, Merge, Heap, Counting  
 - 🔗 **Linked List** — Singly, Doubly, Circular, Loop Detection  
 - 📚 **Stack** — Array & Linked List Implementation, Parentheses Matching, Next Greater Element  
 - 🚦 **Queue** — Simple, Circular, Priority Queue, Deque  
