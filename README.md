@@ -8,7 +8,6 @@ Welcome to my **Java DSA Repository** 📦
 This repo contains all the **Data Structures and Algorithms** I learn during my DSA journey — each topic has examples, **best case** & **worst case** scenarios, and code written in **Java**.
 
 ---
-
 ## ✨ What's Inside the Repo
 - 📁 **Topic-wise organized Java programs**
 - 📝 **Best & Worst case analysis** for each algorithm
@@ -60,7 +59,7 @@ int key = 50; // Not found
    git clone https://github.com/yourusername/Java-DSA.git
    cd Java-DSA
    
-## ✍️ Author
+## ✍️ Author 💛
 **Mohan Parshuram Yadav**  
 
   <a href="mailto:yadavmohan8600@gmail.com">
@@ -68,12 +67,9 @@ int key = 50; // Not found
   </a>
   <strong>yadavmohan8600@gmail.com</strong>
 
-
-**Linkedin**
-💼 *[https://www.linkedin.com/in/mohan-parshuram-yadav-38190b219/]*
+💼 **Linkedin** *[https://www.linkedin.com/in/mohan-parshuram-yadav-38190b219/]*
 
 ---
-
-
+💓 **Email any Suggestion and Feed Back..!**💓
 ⭐ **If you find this helpful, give the repo a star and share it!**
 
