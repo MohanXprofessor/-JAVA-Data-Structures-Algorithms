@@ -9,29 +9,6 @@ This repo contains all the **Data Structures and Algorithms** I learn during my 
 
 ---
 
-## 💡 Example: Best & Worst Case
-
-### 📌 Example: Linear Search
-**Scenario:** Searching an element in an array of `n` elements.
-
-**Best Case (O(1)):**
-- Element is found at the **first position**.
-```java
-int[] arr = {10, 20, 30, 40};
-int key = 10; // First element
-// Found immediately → O(1)
-```
-
-**Worst Case (O(n)):**
-- Element is found at the **last position** or not present at all.
-```java
-int[] arr = {10, 20, 30, 40};
-int key = 50; // Not found
-// Need to check all → O(n)
-```
-
----
-
 ## ✨ What's Inside the Repo
 - 📁 **Topic-wise organized Java programs**
 - 📝 **Best & Worst case analysis** for each algorithm
@@ -57,6 +34,26 @@ int key = 50; // Not found
 - 💰 **Greedy Algorithms** — Coin Change, Activity Selection  
 
 ---
+## 💡 Example: Best & Worst Case
+
+### 📌 Example: Linear Search
+**Scenario:** Searching an element in an array of `n` elements.
+
+**Best Case (O(1)):**
+- Element is found at the **first position**.
+```java
+int[] arr = {10, 20, 30, 40};
+int key = 10; // First element
+// Found immediately → O(1)
+```
+
+**Worst Case (O(n)):**
+- Element is found at the **last position** or not present at all.
+```java
+int[] arr = {10, 20, 30, 40};
+int key = 50; // Not found
+// Need to check all → O(n)
+```
 ## 🚀 Installation & Usage
 1. **Clone the Repository**
    ```bash
@@ -64,11 +61,14 @@ int key = 50; // Not found
    cd Java-DSA
    
 ## ✍️ Author
-**Mohan Yadav**  
-📧 *[Your Email or GitHub Profile Link]*  
-💼 *[LinkedIn Profile Link]*
+**Mohan Parshuram Yadav**  
+📧 *[yadavmohan8600@gmail.com]*  
+💼 *[https://www.linkedin.com/in/mohan-parshuram-yadav-38190b219/]*
 
 ---
+<a href="mailto:yadavmohan8600@gmail.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="30" height="30" />
+</a>
 
 ⭐ **If you find this helpful, give the repo a star and share it!**
 
