@@ -70,6 +70,7 @@ int key = 50; // Not found
 💼 **Linkedin** *[https://www.linkedin.com/in/mohan-parshuram-yadav-38190b219/]*
 
 ---
-💓 **Email any Suggestion and Feed Back..!**💓
+💓 **Email any Suggestion and Feed Back..!** 💓
+---
 ⭐ **If you find this helpful, give the repo a star and share it!**
 
