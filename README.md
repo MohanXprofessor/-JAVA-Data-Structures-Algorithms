@@ -47,3 +47,29 @@ Includes both **basic and advanced** concepts for interview preparation.
 ---
 
 ## 📂 Folder Structure
+
+
+---
+
+## 📚 Topics Covered
+- **Arrays**
+- **Strings**
+- **Searching Algorithms**
+- **Sorting Algorithms**
+- **Linked List (Singly, Doubly, Circular)**
+- **Stacks & Queues**
+- **Recursion**
+- **Hashing**
+- **Trees (BST, AVL, Heap)**
+- **Graphs (BFS, DFS, Dijkstra, etc.)**
+- **Dynamic Programming**
+- **Greedy Algorithms**
+
+---
+
+## 🚀 Installation & Usage
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/yourusername/Java-DSA.git
+   cd Java-DSA
+
