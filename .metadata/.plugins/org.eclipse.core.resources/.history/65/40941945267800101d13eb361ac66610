@@ -1,0 +1,56 @@
+package com.bubblesort;
+
+import java.util.Scanner;
+
+public class BubbleSortUsingwhile {
+
+    public static void main(String[] args) {
+
+        Scanner scan = new Scanner(System.in);
+
+        System.out.println("Enter Array Length");
+        int n = scan.nextInt();
+
+        int unSorted[] = new int[n];
+
+        System.out.println("Enter " + n + " Array Elements:");
+        for (int i = 0; i < n; i++) {
+            unSorted[i] = scan.nextInt();
+        }
+
+        int pass = 0;
+        int newN = n; // dynamic boundary
+
+        while (newN > 1) {
+            boolean swap = false;
+            int lastSwapIndex = 0;
+            pass++;
+
+            for (int j = 0; j < newN - 1; j++) {
+                if (unSorted[j] > unSorted[j + 1]) {
+                    int temp = unSorted[j];
+                    unSorted[j] = unSorted[j + 1];
+                    unSorted[j + 1] = temp;
+                    swap = true;
+                    lastSwapIndex = j + 1; // store last swapped position
+                }
+            }
+
+            if (!swap) break; // stop before printing unnecessary pass
+
+            System.out.print("After Pass " + pass + ": ");
+            for (int val : unSorted) {
+                System.out.print(val + " ");
+            }
+            System.out.println();
+
+            newN = lastSwapIndex; // shrink range
+        }
+
+        
+        System.out.println("Final Sorted Array:");
+        for (int sorted : unSorted) {
+            System.out.print(sorted + " ");
+        }
+    }
+}
