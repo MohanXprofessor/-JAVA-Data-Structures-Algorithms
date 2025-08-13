@@ -73,4 +73,23 @@ int key = 50; // Not found
 💓 **Email any Suggestion and Feed Back..!** 💓
 ---
 ⭐ **If you find this helpful, give the repo a star and share it!**
+## 📚 DSA Topics Covered
+
+- **Sorting Methods**
+  - [x] Bubble Sort
+  - [x] Selection Sort
+  - [ ] Merge Sort *(Coming Soon)*
+  - [ ] Quick Sort *(Coming Soon)*
+
+- **Searching Methods**
+  - [x] Linear Search
+  - [ ] Binary Search *(Coming Soon)*
+
+- **Data Structures**
+  - Arrays
+    - [x] Basics
+    - [ ] Advanced Operations *(Coming Soon)*
+  - Linked List
+    - [ ] Singly Linked List *(Coming Soon)*
+    - [ ] Doubly Linked List *(Coming Soon)*
 
